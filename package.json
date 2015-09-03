@@ -1,0 +1,14 @@
+{
+  "name": "oo-basic-step",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine ./spec/person_spec.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine": "^2.3.2"
+  }
+}
